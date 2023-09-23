@@ -13,8 +13,7 @@ Used quick sort technique to sort the train details.
   "nodemon": "latest"
 }
 ```
-# Error
-![Alt text](image.png)
+
 ## Postman Screenshots
 ![Registration](Register.png)
 
