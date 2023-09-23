@@ -1,5 +1,8 @@
 # 20J41A6934
 
+# Error
+![Alt text](image.png)
+## Postman Screenshots
 ![Registration](Register.png)
 
 ![Auth](Auth.png)
